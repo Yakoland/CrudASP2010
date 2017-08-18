@@ -1,0 +1,4 @@
+c:\users\jcortes\documents\visual studio 2010\Projects\stefanini2\stefanini2\bin\stefanini2.dll
+c:\users\jcortes\documents\visual studio 2010\Projects\stefanini2\stefanini2\bin\stefanini2.pdb
+c:\users\jcortes\documents\visual studio 2010\Projects\stefanini2\stefanini2\obj\Debug\stefanini2.dll
+c:\users\jcortes\documents\visual studio 2010\Projects\stefanini2\stefanini2\obj\Debug\stefanini2.pdb
